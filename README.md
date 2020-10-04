@@ -15,7 +15,7 @@ E-mail: k.gumula@icloud.com
 <br>
 
 [<img align="left" alt="Krzysztof-G | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Krzysztof-G | Linkedin" color="#0077B5" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Krzysztof-G | Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
 <br>
 
@@ -40,7 +40,7 @@ E-mail: k.gumula@icloud.com
 
 ---
 
-<img align="left" alt="Krzysztof-G's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Krzysztof-G&show_icons=true&theme=tokyonight" />
+<img align="left" alt="Krzysztof-G's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Krzysztof-G&show_icons=true&theme=radical" />
 
 
 [facebook]: https://www.facebook.com/chriss.greatt.1

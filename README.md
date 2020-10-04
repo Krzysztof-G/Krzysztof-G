@@ -40,6 +40,8 @@ E-mail: k.gumula@icloud.com
 
 ---
 
+<img align="left" alt="Krzysztof-G's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Krzysztof-G&show_icons=true" />
+
 
 [facebook]: https://www.facebook.com/chriss.greatt.1
 [linkedin]: https://linkedin.com/in/krzysztof-gumuła

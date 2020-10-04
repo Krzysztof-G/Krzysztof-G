@@ -6,6 +6,10 @@
 - ⚡ Fun fact: I love cars and cycling
 
 
+### Spotify Playing 🎧
+<img src="https://krzysztof-g.vercel.app/api/spotify-playing" alt="Krzysztof_G Spotify Playing" width="350" />
+
+
 ### 📫 How to reach me:
 
 <br>

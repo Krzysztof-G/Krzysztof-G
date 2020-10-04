@@ -8,11 +8,12 @@
 
 📫 How to reach me:
 
-- e-mail: k.gumula@icloud.com
-- [<img align="left" alt="Krzysztof-G | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-  [<img align="left" alt="Krzysztof-G | Linkedin" color="#0077B5" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Krzysztof-G | Email" width="22px" src="https://simpleicons.org/icons/microsoftoutlook.svg" />][email]
+[<img align="left" alt="Krzysztof-G | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Krzysztof-G | Linkedin" color="#0077B5" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
 
+[email]: k.gumula@icloud.com
 [facebook]: https://www.facebook.com/chriss.greatt.1
 [linkedin]: https://linkedin.com/in/krzysztof-gumuła
 <!--

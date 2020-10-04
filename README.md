@@ -9,7 +9,9 @@
 ### 📫 How to reach me:
 
 E-mail: k.gumula@icloud.com
+
 <br>
+
 [<img align="left" alt="Krzysztof-G | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Krzysztof-G | Linkedin" color="#0077B5" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 
@@ -35,6 +37,7 @@ E-mail: k.gumula@icloud.com
 
 <br />
 <br />
+
 ---
 
 

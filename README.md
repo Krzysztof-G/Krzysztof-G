@@ -7,7 +7,7 @@
 
 
 ### Spotify Playing 🎧
-<img src="https://krzysztof-g.vercel.app/api/spotify-playing" alt="Krzysztof_G Spotify Playing" width="350" />
+[![Spotify](https://krzysztof-g.vercel.app/api/spotify)](https://open.spotify.com/user/3xg0d3hpmanebxc7zxrfjmqbx)
 
 
 ### 📫 How to reach me:

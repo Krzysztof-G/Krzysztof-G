@@ -5,11 +5,6 @@
 - 👯 I’m looking for Knowledge, work 
 - ⚡ Fun fact: I love cars and cycling
 
-
-### Spotify Playing 🎧
-[![Spotify](https://now-playing-chris-g.vercel.app/api/spotify)](https://open.spotify.com/user/3xg0d3hpmanebxc7zxrfjmqbx)
-
-
 ### 📫 How to reach me:
 
 <br>
